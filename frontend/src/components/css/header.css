@@ -1,0 +1,24 @@
+.hcnt{
+    background-color: white;
+    border-bottom: rgba(0, 0, 0, 0.116) solid thin;
+    padding: 5px 17px 5px 17px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.hcnt>h1{
+    margin: 0;
+    padding: 6px;
+    color: rgb(17, 17, 17);
+    text-shadow: 0 0 8px rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 500;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIgufRbGsYNwf1BShIZdVTnPylvJOZJH2d7Q&usqp=CAU");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:contain;
+}
+#ava{
+    height: 28px;
+    width:  28px;
+}

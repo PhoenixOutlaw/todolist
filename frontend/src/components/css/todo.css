@@ -1,0 +1,29 @@
+.tdcnt{
+    margin-top:20px !important;
+    background-color:white;
+    box-shadow: 0 0 20px rgba(155, 155, 155, 0.274);
+    width:90%;
+    margin: auto;
+    border: solid rgb(112, 112, 112) thin;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: left;
+}
+.tdcnt>h2,.tdcnt>p{
+    margin: 0;
+    padding: 10px;
+}
+.tdcnt>h2{
+    font-weight: 600;
+    font-size: 20px;
+    border-bottom: solid rgba(0, 0, 0, 0.137) thin;
+    text-transform: capitalize;
+}
+.tdcnt>div{
+    border-top: solid rgba(0, 0, 0, 0.137) thin;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 10px 10px 0 10px ;
+}
